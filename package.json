@@ -1,0 +1,20 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "skjds",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo hello",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iasmina12/tabtest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iasmina12/tabtest/issues"
+  },
+  "homepage": "https://github.com/Iasmina12/tabtest#readme"
+}
