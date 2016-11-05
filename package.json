@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Iasmina12/tabtest/issues"
   },
-  "homepage": "https://github.com/Iasmina12/tabtest#readme"
+  "homepage": "https://github.com/Iasmina12/tabtest#readme",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  }
 }
